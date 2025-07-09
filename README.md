@@ -14,7 +14,7 @@ https://miuul.com/blog/rfm-ile-musteri-segmentasyonuna-kisa-bir-bakis?gad_source
 
 > **Note:** Although the dataset used is a customer dataset, the same or similar variables can be used with a seller-based dataset (containing seller IDs instead of customer IDs) to perform **seller segmentation**. In this file, customer analysis was performed due to the lack of access to a seller dataset. Once a seller dataset is available, RFM analysis can be adapted accordingly.
 
-══════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════
 
 ## 🟥 TR – Türkçe
 
